@@ -18,10 +18,6 @@
   <img src="https://streak-stats.demolab.com?user=emonBimantara&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emonBimantara&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
