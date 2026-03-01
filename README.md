@@ -1,7 +1,7 @@
 <h1 align="center">Shelmond Eugene Bimantara</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Mobile+App+Developer;Clean+UI+%7C+Scalable+Architecture;Building+Impactful+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Mobile+App+Developer;Building+Impactful+Digital+Experiences" />
 </p>
 
 ---
