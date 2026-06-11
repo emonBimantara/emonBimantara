@@ -10,9 +10,6 @@
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,ts,nextjs,firebase,flutter,dart" />
-  <a href="https://neon.tech" target="_blank">
-    <img src="https://cdn.simpleicons.org/neon/00E599" height="50" alt="Neon" />
-  </a>
 </p>
 
 ---
